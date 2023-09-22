@@ -1,0 +1,67 @@
+[
+  {
+    "id": "recipe1",
+    "drink name": "GT Pear & Sage",
+    "gin_name": "Citadelle",
+    "tonic_name": "Mediterranean",
+    "ingredient_name": ["Gin", "Tonic", "Ginger syrup", "Lime", "Ice cubes"],
+    "recipe": "6 cl gin\n33 cl tonic\n0.5 dl syrup\njuice of half a lime\nIce Cubes",
+    "persons": 2,
+    "instructions": "Put the sage syrup in a shaker with gin, ice cubes, and lime juice and shake well.\nGarnish with sage, pear, and lime slices",
+    "recipe owner / copyrights": "https://www.valdemarsro.dk/salvie-og-paere-cocktail-med-gin/?antal=1&antal=2",
+    "description": "Savor the delightful flavors of sage, pear, and gin in this autumn-inspired cocktail. The captivating aroma of sage pairs beautifully with the signature XX gin, creating the perfect gin & tonic for the colder months ahead.",
+    "image": "Paere-gin-salvie-cocktail@Valdemarsro.png"
+  },
+  {
+    "id": "recipe2",
+    "drink name": "Mediterranean GT",
+    "gin_name": "Juniper Double Dry Gin",
+    "tonic_name": "Mediterranean",
+    "ingredient_name": [
+      "Thyme",
+      "Rosemary",
+      "Gin",
+      "Ice cubes",
+      "Orange",
+      "Tonic"
+    ],
+    "recipe": "2 fresh Thyme sprigs\n1 sprig of fresh Rosemary\n4 cl gin\nIce cubes\n2 cm Orange Peel\n1 ½ dl Tonic",
+    "persons": 1,
+    "instructions": "Position the Rosemary and Thyme Sprigs onto the cutting board, gently tapping them with the back of the wooden spoon. Place in glass with gin, ice, and tonic and twist the orange peel over the glass and add to the drink.",
+    "recipe owner / copyrights": "https://meny.dk/opskrift/mediterranean-gt-rosmarin-timian-og-appelsin",
+    "description": "Indulge in a refreshing gin & tonic elevated with the aromatic infusion of rosemary & thyme complemented by a bright zest of orange",
+    "image": "Mediterranean GT.png"
+  },
+  {
+    "id": "recipe3",
+    "drink name": "Pink Dream",
+    "gin_name": "Pepper & Bay Leaf Gin",
+    "tonic_name": "Light Indian Tonic Water",
+    "ingredient_name": ["Gin", "Tonic", "Rose Pepper"],
+    "recipe": "4 cl Gin\n10 cl tonic\n5 pcs. Rose Pepper",
+    "persons": 1,
+    "instructions": "Twist the peel of grapefruit over the glass. Add gin, tonic, and rose pepper. Add lots of ice",
+    "recipe owner / copyrights": "https://www.ginhuset.dk/blogs/cocktails/gin-tonic-pink-pepper-gin-fra-audemus",
+    "description": "Do you want to try a cocktail with the amazing Pink Pepper Gin? Pink Pepper has a unique taste and was a well-deserved double gold winner when the best gins were voted in 2017. Pink Pepper Gin blends flavors from rose pepper and vanilla together, giving a round and distinctive taste.",
+    "image": "Pink Pepper.png"
+  },
+  {
+    "id": "recipe4",
+    "drink name": "Cucumber & Ginger GT",
+    "gin_name": "Batch 046",
+    "tonic_name": "Premium Indian Tonic Water",
+    "ingredient_name": [
+      "Ginger",
+      "Gin",
+      "Lime",
+      "Cucumber",
+      "Tonic"
+    ],
+    "recipe": "3 cl Ginger syrup\n3 cl Gin\n3 cl Lime Juice\n3 cl Cucumber juice\nTonic",
+    "persons": 1,
+    "instructions": "Combine the ingredients, then garnish with tonic, slices of fresh cucumber, and an abundance of ice cubes.",
+    "recipe owner / copyrights": "https://www.gintossen.dk/da/agurk-ingefaer-gin-fizz.html",
+    "description": "Up for a fresh summer Gin cocktail? Then a Cucumber & Ginger Gin Fizz could easily be the answer to your prayer!",
+    "image": "drik.png"
+  }
+]

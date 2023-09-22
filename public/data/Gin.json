@@ -1,0 +1,43 @@
+[
+    {
+      "gin name": "Citadelle",
+      "producer": "Maison Ferrand Distillery",
+      "country": "France",
+      "alcohol %": 44,
+      "contents": "70 cl",
+      "supplier": "GinHuset",
+      "description": "Citadelle Gin er en prisvindende fransk gin med en vidunderlig smag. Den har den klassiske smag og duft af enebær, og hvor renheden og finessen gør den til en af de allerbedste gin på markedet. Det er derfor heller ikke uden grund, at den har vundet et hav af priser og medaljer gennem årene.",
+      "image": "ginCitadelle.png"
+    },
+    {
+      "gin name": "Pepper & Bay Leaf Gin",
+      "producer": "BeGin CPH",
+      "country": "Denmark",
+      "alcohol %": 40.3,
+      "contents": "50 cl",
+      "supplier": "GinHuset",
+      "description": "Basen for BeGin CPH Pepper & Bay Leaf Gin er enebær, angelicarod, og korianderfrø. Hertil er der tilføjet lang peber, timut peber og laurbærblade.",
+      "image": "ginBeGin.png"
+    },
+    {
+      "gin name": "Batch 046",
+      "producer": "Radius",
+      "country": "Denmark",
+      "alcohol %": 45.4,
+      "contents": "50 cl",
+      "supplier": "GinHuset",
+      "description": "Batch 046 er vores version af en klassisk London dry gin med masser af enebær og tydelige noter af irisrod og citronskal. Nyd den med en tør tonic.",
+      "image": "gintadius.png"
+    },
+    {
+      "gin name": "Juniper Double Dry Gin",
+      "producer": "WARNER EDWARDS",
+      "country": "UK",
+      "alcohol %": 0,
+      "contents": "50 cl",
+      "supplier": "GinHuset",
+      "description": "Warner Edwards afslører med stolthed deres nye 0% Gin, Helt uden alkohol. Destilleret udelukkende med deres egne ægte gårddyrkede ingredienser, hvilket gør hver dråbe både forfriskende og autentisk. Warner Edwards Double Dry Gin er destilleret med citrontimian, citronverbena og vand hentet fra kilden på deres familie gård.",
+      "image": "ginWerners.png"
+    }
+  ]
+  

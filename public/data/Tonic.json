@@ -1,0 +1,36 @@
+[
+    {
+      "brand": "Fever-Tree",
+      "name": "Mediterranean",
+      "contents in ml": "200 ml",
+      "sugar": "yes",
+      "country": "UK",
+      "supplier": "Vinoble",
+      "description": "Den prisbelønnede Fever-Tree-serie er lavet med de fineste og mest autentiske ingredienser, subtil botanisk smag, naturlig saft, blød kildevand, rørsukker, og kinin af den højeste kvalitet, fra de oprindelige Chinchona træer, også kaldet febertræer. Fever-Tree Mediterranean Tonic Water præsenterer en subtil aroma af timian med frisk citrus og strejf af rosemarin, der ledsages af en helt ny smag med en blød bitterhed af ren og naturlig kinin samt en afrundet elegant smag af urter og citrus.",
+      "durability/shelf life": "1 month",
+      "image": "20030915_Astrocytia_GT_FeverTreeIndian.png"
+    },
+    {
+      "brand": "Fever-Tree",
+      "name": "Light Indian Tonic Water",
+      "contents in ml": "200 ml",
+      "sugar": "no",
+      "country": "UK",
+      "supplier": "Vinoble",
+      "description": "Vores Refreshingly Light Indian Tonic Water er lavet med frugtsukker, der afbalancerer kininens bitterhed.",
+      "durability/shelf life": "1 month",
+      "image": "20030915_Astrocytia_GT_FeverTreeLight.png"
+    },
+    {
+      "brand": "Fever-Tree",
+      "name": "Premium Indian Tonic Water",
+      "contents in ml": "200 ml",
+      "sugar": "yes",
+      "country": "UK",
+      "supplier": "Vinoble",
+      "description": "I vores Premium Indian Tonic Water bruger vi en håndfuld forskellige botaniske ingredienser - heriblandt vores karakteristiske kinin fra Congo og olier fra mexikanske bitre appelsiner, som giver en unik, ren og forfriskende aroma.",
+      "durability/shelf life": "1 month",
+      "image": "20030915_Astrocytia_GT_FeverTreeMedi.png"
+    }
+  ]
+  
